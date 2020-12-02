@@ -21,6 +21,4 @@ import pandas as pd
 # plt.show()
 
 
-z=1
-for i in map(int,z):
-    print(i)
+plt.plot()
